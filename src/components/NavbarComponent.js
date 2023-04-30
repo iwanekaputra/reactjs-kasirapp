@@ -5,6 +5,7 @@ const NavbarComponent = () => {
     <Navbar bg="primary" variant="dark" expand="lg">
       <Container>
         <Navbar.Brand href="#home"><strong>Kasir</strong> App</Navbar.Brand>
+          
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
       </Container>
     </Navbar>

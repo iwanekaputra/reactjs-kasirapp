@@ -1,1 +1,1 @@
-export const API_URL = 'https://iwanekaputra54.000webhostapp.com/api/';
+export const API_URL = 'https://apikasirapp.000webhostapp.com/api/';

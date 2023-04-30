@@ -22,6 +22,7 @@ const TotalPay = ({carts}) => {
 
     axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
     axios.post(`${API_URL}orders`, orders).then(response => {
+      console.log('success')
       navigate('/success')
     })
   }

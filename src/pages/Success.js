@@ -9,7 +9,8 @@ const Success = () => {
     axios.get(`${API_URL}carts`).then(response => {
       const carts = response.data.data
       carts.map(cart => {
-        console.log(cart.id)
+        
+        axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
         return axios.delete(`${API_URL}carts/${cart.id}`).then(res => {
           console.log(res);
         }).catch(error => {

@@ -49,9 +49,13 @@ const Hasil = ({carts, updateCarts}) => {
     })  
   }
   
-  const deleteOrder = () => {
+  const deleteOrder = async() => {
     setShowModal(false)
-    axios.delete(`${API_URL}carts/${cartDetail.id}`).then(res => {
+    const data = {
+      cart : cartDetail.id
+    }
+    axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';    
+    await axios.post(`${API_URL}carts/delete`, data).then(res => {
       updateCarts()
 
       swal({
