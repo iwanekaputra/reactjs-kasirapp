@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di repository reactjs-kasirapp! 👋🏻</h1>
 
-<img src="https://github.com/iwanekaputra/reactjs-onlineshop/blob/master/kasirapp.png">
+<img src="https://github.com/iwanekaputra/reactjs-kasirapp/blob/master/kasirapp.png">
 
 <p></p>
 
