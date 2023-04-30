@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+<h1 align="center">Selamat datang di repository reactjs-kasirapp! 👋🏻</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://github.com/iwanekaputra/reactjs-onlineshop/blob/master/kasirapp.png">
 
-## Available Scripts
+<p></p>
 
-In the project directory, you can run:
+<h4 align="center">Website ini adalah website kasir menyediakan makanan atau pun minuman yang dibuat menggunakan react js
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</h4>
 
-### `npm test`
+<p></p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<p align="center">
+  <a href="#tentang">Tentang Project</a> •
+  <a href="#fitur">Fitur</a> •
+  <a href="#download">Download & Install</a> •
+  <a href="#dukungan">Dukungan</a> •
+  <a href="#lisensi">Lisensi</a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p></p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2 id="tentang">🎓 Tentang kasir</h2>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+website kasir menyediakan makanan atau pun minuman yang dibuat menggunakan react js
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p></p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h2 id="fitur">✨ Fitur Tersedia</h2>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+- tambah cart, pesanan, pilih makanan
+<p></p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p></p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2 id="syarat">💾 Prasyarat yang Diperlukan</h2>
 
-### Code Splitting
+Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda menjalankan aplikasi kasir jika anda belum menginstall nya maka disarankan untuk menginstall nya terlebih dahulu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- react js, nodejs, npm
+- Web Browser [Chrome, Firefox, Safari & Opera]
+- Internet [Karena menggunakan banyak CDN]
 
-### Analyzing the Bundle Size
+<p></p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<h2 id="download">🐱‍💻 Panduan Menjalankan & Install Aplikasi</h2>
 
-### Making a Progressive Web App
+Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP atau web server lain dan mempunyai setidaknya satu web browser yang terinstall di komputer anda.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+# Clone repository ini atau download di
+$ git clone https://github.com/iwanekaputra/reactjs-kasirapp.git
 
-### Advanced Configuration
+# Kemudian jalankan npm start
+$ npm start
+# Selamat aplikasi dapat anda nikmati di local!
+```
+<p></p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<h2 id="dukungan">💌 Dukungan</h2>
 
-### Deployment
+Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p></p>
 
-### `npm run build` fails to minify
+<a href="https://trakteer.id/iwanekaputra" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p></p>
+
+<h2 id="kontribusi">🤝 Kontribusi</h2>
+
+Contributions, issues and feature requests sangat saya apresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk pull request dan membuat perubahan pada project ini.
+
+Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
+
+<p></p>
+
+<h2 id="lisensi">📝 Lisensi</h2>
+
+- Copyright © 2023 IWAN EKA PUTRA
+
+---
+
+**<p align="center">Made with ❤️ by IWAN EKA PUTRA</p>**
